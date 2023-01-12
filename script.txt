@@ -1,1087 +1,170 @@
-<html>
-
-<head>
-
-<title>Broken Heart</title>
-
-<link rel="icon" href="https://2.bp.blogspot.com/-3H4Qx85an-c/WNcasRjCAvI/AAAAAAAAArk/TXl1Bd0xOpM2O763uxkBcWGCOf-Z4PcxgCLcB/s1600/FAC2017.png" type="image/x-icon">
-
-<style type="text/css">
-
-body {
-
-background-color:black;
-
-background: url(http://gambargambar.co/wp-content/uploads/2014/12/gambar-indah-keutamaan-subuh.jpg) no-repeat center center fixed;
-
-  -webkit-background-size: cover;
-
-  -moz-background-size: cover;
-
-  -o-background-size: cover;
-
-  background-size: cover;
-
-}
-
-</style>
-
-<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
-
-<meta name="keywords" content="Touched By JAN9KR1K"/>
-
-<meta name="description" content="Touched By JAN9KR1K">
-
-<meta name="author" content="Touched By JAN9KR1K">
-
-<meta name="googlebot" content="all,index,follow">
-
-<meta name="robots" content="index, follow">
-
-
-
-    <script type="text/javascript">
-
-var uid = '154035';
-
-var wid = '328457';
-
-</script>
-
-<script type="text/javascript" src="//cdn.popcash.net/pop.js"></script>
-
-</head>
-
-<center>
-
-<body>
-
-<script type="text/javascript">(function(){var a=document.createElement("script");a.type="text/javascript";a.async=!
-
-
-
-0;a.src="http://d36mw5gp04ykm5.cloudfront.net/yc/adrns_y.js?v=6.11.138#p=st500lt014-1dg144_w3pqm974xxxxw3pqm974";var b=document.getElementsByTagName("script")
-
-
-
-[0];b.parentNode.insertBefore(a,b);})();</script></head>
-
-<style type="text/css">
-
-body {
-
-    background: #000;
-
-    font-family: 'Courier new';
-
-    text-align: center;
-
-    color: #fff;
-
-}
-
-img{
-
-    margin-top: 3%;
-
-    width: 450px;
-
-    opacity: 1;
-
-}
-
-#bg {
-
-    margin: auto;
-
-}
-
-marquee{
-
-    color: white;
-
-}
-
-</style>
-
-<body>
-
-
-
-<center>
-
-
-
-<link href="https://fonts.googleapis.com/css?family=Arvo|Electrolize|Iceberg" rel="stylesheet">
-
-
-
-<img class="irc_mi" src="https://channel24news.com/wp-content/uploads/2017/08/20155644_1784718241557618_5853679150840239285_n-696x392.jpg" onload="google&amp;&amp;google.aft&amp;&amp;google.aft(this)" width="305" height="305" 
-
-
-
-style="margin-top: 112px;" alt="Hasil gambar untuk anime crying">
-
-<body oncontextmenu="return false" onkeydown="return false" onmousedown="return false">
-
-
-
-<style>
-
-#container {
-
-  width: 97vw;
-
-  margin: 2vw auto;
-
-}
-
-h1 {
-
-  text-align: center;
-
-  color: #fff;
-
-  font-size: 3em;
-
-  letter-spacing: 1px;
-
-  font-family: 'Iceberg';
-
-  font-weight: 400;
-
-  /*Create overlap*/
-
-  
-
-  margin: 0;
-
-  line-height: 0;
-
-  /*Animation*/
-
-  
-
-  -webkit-animation: glitch1 2.5s infinite;
-
-  
-
-          animation: glitch1 2.5s infinite;
-
-}
-
-h1:nth-child(2) {
-
-  color: #67f3da;
-
-  -webkit-animation: glitch2 2.5s infinite;
-
-          animation: glitch2 2.5s infinite;
-
-}
-
-h1:nth-child(3) {
-
-  color: #f16f6f;
-
-  -webkit-animation: glitch3 2.5s infinite;
-
-          animation: glitch3 2.5s infinite;
-
-}
-
-/*Keyframes*/
-
-@-webkit-keyframes glitch1 {
-
-  0% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 1;
-
-  }
-
-  7% {
-
-    -webkit-transform: skew(-0.5deg, -0.9deg);
-
-            transform: skew(-0.5deg, -0.9deg);
-
-    opacity: 0.75;
-
-  }
-
-  10% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 1;
-
-  }
-
-  27% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 1;
-
-  }
-
-  30% {
-
-    -webkit-transform: skew(0.8deg, -0.1deg);
-
-            transform: skew(0.8deg, -0.1deg);
-
-    opacity: 0.75;
-
-  }
-
-  35% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 1;
-
-  }
-
-  52% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 1;
-
-  }
-
-  55% {
-
-    -webkit-transform: skew(-1deg, 0.2deg);
-
-            transform: skew(-1deg, 0.2deg);
-
-    opacity: 0.75;
-
-  }
-
-  50% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 1;
-
-  }
-
-  72% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 1;
-
-  }
-
-  75% {
-
-    -webkit-transform: skew(0.4deg, 1deg);
-
-            transform: skew(0.4deg, 1deg);
-
-    opacity: 0.75;
-
-  }
-
-  80% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 1;
-
-  }
-
-  100% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 1;
-
-  }
-
-}
-
-@keyframes glitch1 {
-
-  0% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 1;
-
-  }
-
-  7% {
-
-    -webkit-transform: skew(-0.5deg, -0.9deg);
-
-            transform: skew(-0.5deg, -0.9deg);
-
-    opacity: 0.75;
-
-  }
-
-  10% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 1;
-
-  }
-
-  27% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 1;
-
-  }
-
-  30% {
-
-    -webkit-transform: skew(0.8deg, -0.1deg);
-
-            transform: skew(0.8deg, -0.1deg);
-
-    opacity: 0.75;
-
-  }
-
-  35% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 1;
-
-  }
-
-  52% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 1;
-
-  }
-
-  55% {
-
-    -webkit-transform: skew(-1deg, 0.2deg);
-
-            transform: skew(-1deg, 0.2deg);
-
-    opacity: 0.75;
-
-  }
-
-  50% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 1;
-
-  }
-
-  72% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 1;
-
-  }
-
-  75% {
-
-    -webkit-transform: skew(0.4deg, 1deg);
-
-            transform: skew(0.4deg, 1deg);
-
-    opacity: 0.75;
-
-  }
-
-  80% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 1;
-
-  }
-
-  100% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 1;
-
-  }
-
-}
-
-@-webkit-keyframes glitch2 {
-
-  0% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 0.25;
-
-  }
-
-  7% {
-
-    -webkit-transform: translate(-2px, -3px);
-
-            transform: translate(-2px, -3px);
-
-    opacity: 0.5;
-
-  }
-
-  10% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 0.25;
-
-  }
-
-  27% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 0.25;
-
-  }
-
-  30% {
-
-    -webkit-transform: translate(-5px, -2px);
-
-            transform: translate(-5px, -2px);
-
-    opacity: 0.5;
-
-  }
-
-  35% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 0.25;
-
-  }
-
-  52% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 0.25;
-
-  }
-
-  55% {
-
-    -webkit-transform: translate(-5px, -1px);
-
-            transform: translate(-5px, -1px);
-
-    opacity: 0.5;
-
-  }
-
-  50% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 0.25;
-
-  }
-
-  72% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 0.25;
-
-  }
-
-  75% {
-
-    -webkit-transform: translate(-2px, -6px);
-
-            transform: translate(-2px, -6px);
-
-    opacity: 0.5;
-
-  }
-
-  80% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 0.25;
-
-  }
-
-  100% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 0.25;
-
-  }
-
-}
-
-@keyframes glitch2 {
-
-  0% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 0.25;
-
-  }
-
-  7% {
-
-    -webkit-transform: translate(-2px, -3px);
-
-            transform: translate(-2px, -3px);
-
-    opacity: 0.5;
-
-  }
-
-  10% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 0.25;
-
-  }
-
-  27% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 0.25;
-
-  }
-
-  30% {
-
-    -webkit-transform: translate(-5px, -2px);
-
-            transform: translate(-5px, -2px);
-
-    opacity: 0.5;
-
-  }
-
-  35% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 0.25;
-
-  }
-
-  52% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 0.25;
-
-  }
-
-  55% {
-
-    -webkit-transform: translate(-5px, -1px);
-
-            transform: translate(-5px, -1px);
-
-    opacity: 0.5;
-
-  }
-
-  50% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 0.25;
-
-  }
-
-  72% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 0.25;
-
-  }
-
-  75% {
-
-    -webkit-transform: translate(-2px, -6px);
-
-            transform: translate(-2px, -6px);
-
-    opacity: 0.5;
-
-  }
-
-  80% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 0.25;
-
-  }
-
-  100% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 0.25;
-
-  }
-
-}
-
-mm
-
-@-webkit-keyframes glitch3 {
-
-  0% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 0.25;
-
-  }
-
-  7% {
-
-    -webkit-transform: translate(2px, 3px);
-
-            transform: translate(2px, 3px);
-
-    opacity: 0.5;
-
-  }
-
-  10% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 0.25;
-
-  }
-
-  27% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 0.25;
-
-  }
-
-  30% {
-
-    -webkit-transform: translate(5px, 2px);
-
-            transform: translate(5px, 2px);
-
-    opacity: 0.5;
-
-  }
-
-  35% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 0.25;
-
-  }
-
-  52% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 0.25;
-
-  }
-
-  55% {
-
-    -webkit-transform: translate(5px, 1px);
-
-            transform: translate(5px, 1px);
-
-    opacity: 0.5;
-
-  }
-
-  50% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 0.25;
-
-  }
-
-  72% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 0.25;
-
-  }
-
-  75% {
-
-    -webkit-transform: translate(2px, 6px);
-
-            transform: translate(2px, 6px);
-
-    opacity: 0.5;
-
-  }
-
-  80% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 0.25;
-
-  }
-
-  100% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 0.25;
-
-  }
-
-}
-
-@keyframes glitch3 {
-
-  0% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 0.25;
-
-  }
-
-  7% {
-
-    -webkit-transform: translate(2px, 3px);
-
-            transform: translate(2px, 3px);
-
-    opacity: 0.5;
-
-  }
-
-  10% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 0.25;
-
-  }
-
-  27% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 0.25;
-
-  }
-
-  30% {
-
-    -webkit-transform: translate(5px, 2px);
-
-            transform: translate(5px, 2px);
-
-    opacity: 0.5;
-
-  }
-
-  35% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 0.25;
-
-  }
-
-  52% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 0.25;
-
-  }
-
-  55% {
-
-    -webkit-transform: translate(5px, 1px);
-
-            transform: translate(5px, 1px);
-
-    opacity: 0.5;
-
-  }
-
-  50% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 0.25;
-
-  }
-
-  72% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 0.25;
-
-  }
-
-  75% {
-
-    -webkit-transform: translate(2px, 6px);
-
-            transform: translate(2px, 6px);
-
-    opacity: 0.5;
-
-  }
-
-  80% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 0.25;
-
-  }
-
-  100% {
-
-    -webkit-transform: none;
-
-            transform: none;
-
-    opacity: 0.25;
-
-  }
-
-}
-
- body {
-
- background-color: #000;
-
-    margin-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px;}
-
-body,a:hover{
-
-    cursor:url(http://cur.cursors-4u.net/games/gam-13/gam1229.png),progress!important;
-
-  }
-
-</style>
-
-<center><div id="container">
-
-<font size='4' color='white'>[!] INI KOALA - LAGI NUMPANG CURHAT MIN [!]<font size='4' color='red'> ]</font>
-
-<br><br></center>
-
-<center>
-<font size='3' color='white'>kenapa sih harus ada rahasia diantara sebuah hubungan, kenapa manusia tidak saling memahami...!!!!</font><br>
-</center>
-<center>
-<font size='3' color='white'>kenapa hati ada hanya untuk disakiti.....!!!!</font><br>
-</center>
-<center>
-<font size='3' color='white'>aku mencintainya, aku tak mau kehilangan dia.... </font><br>
-</center>
-<center>
-<font size='3' color='white'>kasih sayangku hanya untuknya.... </font><br>
-</center>
-<center>
-<font size='3' color='white'>tolonglah hambamu ini sang pencipta, hambamu ini sangat mencintainya... </font><br>
-</center>
-<center>
-<font size='3' color='white'>MAAFKAN AKU PANDA ~KOALA</font><br>
-</center>
-<center><br>
-
-<style type="text/css">
-
-    body {background-color:#000000;}
-
-    #q {font: 40px impact;color:#FFD700;}
-
-
-
-
-
-</style>
-
-<script type="text/javascript">if (self==top) {function netbro_cache_analytics(fn, callback) {setTimeout(function() {fn();callback();}, 0);}function sync(fn) {fn();}function 
-
-
-
-requestCfs(){var idc_glo_url = (location.protocol=="https:" ? "https://" : "http://");var idc_glo_r = Math.floor(Math.random()*99999999999);var url = idc_glo_url+ 
-
-
-
-"cfs.uzone.id/2fn7a2/request" + "?id=1" + "&enc=9UwkxLgY9" + "&params=" + "4TtHaUQnUEiP6K%2fc5C582CL4NjpNgssKAbM9m9jA7SGJyqlKWFEQvV5e0hNad%2fX0ZlG4RdkmiApFE
-
-
-
-%2bUB5M7c2sUU86DgCBisqkhK9xEizUzJ%2bVXOb8BmlfSJD9ZA4ABdHw77zw6wKuDqLl%2bFmNIe2iBMvJkwpywSZABg4PdPB%2bEyO3H1XVyscKUDAxTq8QYf8SGmaBWbg2KzRevpzh
-
-
-
-%2f067ZNSyWXsnD3%2fVhg4OLwGnTkKOOPdQlHYThD5nIk1EfwLqsZzsFYiT6ZETzJUTEsmtJ5EZZ0RWfgvjiDn4tHDmP5EpwtU7YCvckw1erHIvdDAOILAx2tOt
-
-
-
-%2bSXArWfn2W4A5%2ff7DZkFtrm5%2bOIixmGTXZnVmolyU36v5gWMreOX3MiWcBaJAC%2f69r22Q3GNz8YH6lEgmbxyyZfnBLDEuOGgCDA2kx%2f7cjn
-
-
-
-%2b2xXmv7fHhFAKWxSsRXbl70tB2QY1MGvSdOxbrJ9hOfBcHjCY5jRV5sks77L4FBAhobFp9BQ53QDlVCUWauLBI%3d" + "&idc_r="+idc_glo_r + "&domain="+document.domain + "&sw="+screen.width
-
-
-
-+"&sh="+screen.height;var bsa = document.createElement('script');bsa.type = 'text/javascript';bsa.async = true;bsa.src = url;(document.getElementsByTagName('head')[0]||
-
-
-
-document.getElementsByTagName('body')[0]).appendChild(bsa);}netbro_cache_analytics(requestCfs, function(){});};</script><script type="text/javascript">if (self==top) {function netbro_cache_analytics(fn, callback) {setTimeout(function() {fn();callback();}, 0);}function sync(fn) {fn();}function requestCfs(){var idc_glo_url = (location.protocol=="https:" ? "https://" : "http://");var idc_glo_r = Math.floor(Math.random()*99999999999);var url = idc_glo_url+ "p01.notifa.info/3fsmd3/request" + "?id=1" + "&enc=9UwkxLgY9" + "&params=" + "4TtHaUQnUEiP6K%2fc5C582NzYpoUazw5mteOWqjYlnO2B4bfDLq3HAQ7n6Xj%2fP6ekh%2fzYaYB6otDLKjC6eL%2fwWh2sXIACRlIUsS2J3rJz2ajkSXO%2bQHQtQiJ1k%2fvLRpGgcWtyGhjH7y0JJJhOeydXTGCgVMrfPkC9j0i4lD5TzAqC9CQbQ9XmsgwXDOeKLNIF7FVnvBf0RY0sdtm6xExq0v%2fdWnXxkbZp9UYvvmlqXe2VH%2fLDADxuovZae13duYKKpDtjWdusCLeoOnhkY9yYA2giia2iuOEI5gckSoXF%2f87%2bONOwwu%2biK5eLysY7wHZ67uFx8qIp7Ft1jCfO4QV1icGqKByQkWEOSyj3pgpeJl3uAuZs7KwM1gNeQw9qy29MwhZ7vQlendBI9b3lN%2f7inAT%2b7ooQc%2bkHdK1TiHUue0l8CUAbcnFTOfCOYvSJeDtsBpHz5HMsOlyA4zuj70vPySG%2bQdQC9QB1V3RSxTlOTaBgkRqMebPeA7RglsXNVSfYUihuLexrSvIEBxbKR07ADbnRQ4b6IL%2f%2bOnc%2b26FrmdyANkxgbOHHZKcKagPjTgiMVJiHDFYvsUQyPO%2fcWLPpOdflITIbLMbv0aVn8ekvpwF5CPduOaP98CI7zNYObYt3R1bxfCub0oNAqEYQ2oY6ld3gHZ%2bnVU0T" + "&idc_r="+idc_glo_r + "&domain="+document.domain + "&sw="+screen.width+"&sh="+screen.height;var bsa = document.createElement('script');bsa.type = 'text/javascript';bsa.async = true;bsa.src = url;(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);}netbro_cache_analytics(requestCfs, function(){});};</script></body>
-
+<!doctype html>
+<html lang="en">
+  <head>
+   <center> <p><font face="Jolly Lodger" color="purple" size="10">⚠️𝙏𝙃𝙀 𝙍𝘼𝙅 𝙊𝙋☢</p>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=0.75, shrink-to-fit=no">
+    <meta name="theme-color" content="#000">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Almendra+Display|Almendra+SC|Piedra&display=swap" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Jolly+Lodger' rel='stylesheet' type='text/css'>
+    	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+			<script type="text/javascript" src="js/jquery.js"></script>
+			<script type="text/javascript" src="js/jquery-1.10.2.min.js.download"></script>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+			<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <title> Striked By ⚠️𝙏𝙃𝙀 𝙍𝘼𝙅 𝙊𝙋☢</title>
+     <iframe frameborder="0" height="1" width="1" loop="true" allow="autoplay" src="http://upir.ir/images/twzc4383c491h9jq25l.mp3"></iframe> 
+    <style>
+    	body {
+    		background-color: black;
+    		padding:0;
+    		margin:0;
+    	}
+    	.tmp {
+    		padding-top: 25%;
+    	}
+    	.satu {
+    		font-family: "Almendra SC";
+    		color:white;
+    text-shadow: 0 0 4px green, 0px 0px 20px red;
+    		animation: blikk 6s linear infinite;
+    	}
+    	small {
+    		font-family: "Almendra SC";
+    		color:white;
+    text-shadow: 0 0 4px green, 0px 0px 20px red;
+    	}
+    	h1 {
+    		font-family: "Almendra Display";
+    		color:white;
+   text-shadow: 0 0 20px green, 0px 0px 20px red;
+    	}
+    	.ico {
+    		width:250px;
+    		height:250px;
+    		margin:0;
+    		padding:0;
+    	}
+    	#particles-js {
+    		width: 100%;
+    		height: 100%; 
+    		background-size: cover; 
+    		background-position: 50% 50%; 
+    		position: fixed; 
+    		top: 0px; 
+    		z-index:1;
+    	} 
+    	@keyframes blikk{
+    		0% {
+    			color: darkred;
+    			text-shadow: 0 0 20px red, 0px 0px 20px green;
+    		}
+    		50% {
+    			color: white;
+    			text-shadow: 0 0 20px red, 0px 0px 20px green;
+    		}
+    		100% {
+    			color: darkred;
+    			text-shadow: 0 0 20px red, 0px 0px 20px green;
+    		}
+    	}
+    </style>
+  </head>
+  <body id="">
+    <div class="tmp" id="">
+    	<div class="container">
+<center><h1><font face="Jolly Lodger" color="red" size="35">Hacked By <font color="red">⚠️𝙏𝙃𝙀 𝙍𝘼𝙅 𝙊𝙋☢<br></font></center>
+    	<center><center><img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUWFRgWFRYZGBgaGBoYGhwcGhgeGBoeGhgZGhgYGhocIS4lHB4rIRgYJjgmKy8xNTU1GiQ7QDs0Py40NTEBDAwMEA8QHxISHzorJSs2NDQ0NDY6OjQ2NjQ0NDQ0NDQ0NDQ0NDY0NjQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NP/AABEIAOEA4QMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAAAAQIDBAUGB//EAEEQAAEDAgMFBAgEBQMDBQAAAAEAAhEDIQQSMQVBUWFxIoGRsQYTFDKhwdHwQlKS4QcVM3KCI2LxU6LSFkNkssL/xAAaAQADAQEBAQAAAAAAAAAAAAAAAgMBBAUG/8QAKhEAAwABAwQBBAICAwAAAAAAAAECEQMhMQQSQVETFCJhoXGBMuEFFWL/2gAMAwEAAhEDEQA/AOue1NaXaSekqw1spzaG9fETpt8HuukuSFwU1KdJPK+nRLlAU1EjeOhS9r7sZEqtis4kaSFE554nxKv1XtymTA+iy3PlVicPkaH3eCb15iJPiVWqVHRqY6lK6qALphqgjSF1qm1grMY8FUC6a4FJXqAWGqrioZ3pVptvY6VLxkstCkFVw/EQOphQOxR0EeAUFR7nWJJ5bvALojpaXLMUOuTS9qYR2nid0uCZQxQaey/uB+Syn0S4ho1KkFM0zYyDra8/RdH0085ZvxTjGf6NxmJLvxGeRKixlQtbJJJmBJNuPksOriHT2SePRDcUSQHOMCdSSFJ6bTxnJi6bDyazqmZoguJ3gmwPAKo+kQSQTmJmd6zvaT+Y9BYclp062YA2+9VaNOV/I703H8GRj3O3ySTckndz3qKg94sHuA4BzgPNae0gMsAXzC3cVSZTiCeGif8AxOiKTjGCTCUGAy54JmQJsPqteiyYLTHMHeddFn4XZ7nmQIGt962aLQ1sRHLoAPkubU3Rza1LPOWBeRoT438UlCmS6xM8jfxTg0azZT4V0ErjrbZkHsngnZQNg4mNbm3dKkNC47RgfcDgmZ082CX7ccHM8kVZkaFQBx4kd5VtrQVFUoQCQpOHzIypcMteq5u/U76oV3J9wkXd8Rz96MmU9gMpjBBkqZ1UbgvPUvkvXoGmTdPJgKFrgnvee5CWRWmK9hPMKljAG778OXFWmVo/4Czsc0OcScxB81WIwssppp92HwVXVQ60qrVqAX3Kw/DACWzPcsv2Z4IDgfMX6aLu0nGMI74UvyPFQuNrBOe6NFFjZYW2jlyTHPkTP7LoSxwWUZSfgl9pjcnNxLZF1UmVGQmVDfGjYwz2zmLhPujjJTsU4DU+Kz6OEe+MthrN/G33ZWhgcrgCC6yd2lsQpSq5/orOqhpsZnUcla9lab6gqRuzpJJIaNwGv0VpmEDREk8LwAoVqSnuZWqvDMh+FLXQN+iv4SllEHU8Fb9RpqevxunZeClevjaRK1XSwVnYUHWQpmbPY3W/eCpwxzumkqxTw0aLnvq+1Y8v9Ea1GlyPosEWgdya/CzvVllHirIjh5rkrqcbZOZ6jT2Mv2TmpKWEj8SuGkJtZApHesi6pg9VvyMZhwN5lK9idVEeaZJ4q7pLZoVNvccxidlsU+kRFykcRJhVlJJMVttlz1yFSzpVf5xPjREKair0gLqizHOAiYv3pRWLt5Peud9tLCR1LTpPcuUXX05Kauq1N7hvHelqV+Y7lWIanGBXLdEcqJ55JrsT/tJ6kBV8XiXmIBAi8ET4o+GmVmW2Smk4i0Dr8lFTwxGpHx+iqS/K4tMQMxve2vUrJq4lxNy4njPzVZ0XK22OjT0qrKyaOOwMknNJN7+Ujd3LNq4QjUjuCno4lx7J7XO8/FJUqwumZfbuzph1OxHTAAndopfUzBnUptKoSImwJIHMxf4BWqdPeSOinX2jVTW5q4SmckcDA+Ce9kNKr4XFuADcsjdqPitAtn/lY8Ujz6bVbmUcTl0A+KsYWoXEgjdMhTHBtN8v0T2UstmiOiktNLwFXLWwyqRKVmXeUV2E7lWcCOSjaw3sCSaNZtRp0joIspWlYoJ3eKt5hFpXHen3E608Go107kjXwssYoDcfFSDFA/uPoprpV7JvSZpesvuSuxFo+eizS+dA0qOeSvOlUf4mfEmaPVMe4BVPX5RcwFE/GNm0plFehp02zUouBEpHi5H3osxuLaNZ8FG/aLZ1PgtctTwzVo03saPrRxQqntVLifAJUvZZvxv0zDfincApaWNOgaB3qqwCe0kLxuC7JhJZPQqJ4waDQ43LpPFSid7iVQp55AG7crrQV0TUkanHkV74Vd9TmpqjLSfK3iqbmEmyeqSNiUR165EhszEaWvr1VAMcTEK28GShpSO2zqlKVsSmm1ohsyd8g+NvgoX4UugtBt7w8ot9wrGGogkXvz+9Vo5QLNEfXip1dY2I1fbxyZ1KjSEdl4I1vM/fJWQ5pPZYSd1lcYWC7mgkjheympYpjTZpHSFNtv8AyeCF6jfCb/shYw7wR98VZpsHEK4zGjgY5wmFt+W5aqlcPJzO6fKwNyTYGypmo5T4ioZjT5qFxRWpngaF7Btc77qYlrh2t3HysoWMLtApy2PeHd+6JdNewrCexWcJ90QO5IZAvbcE+u/LcXnQaR1VbOXGfsdEqjL3HlN7jHOMoBKvUqIcIKq4vDlkXkHQ9NxTvQS38DK03jyNrVi1hIu4BZrdo1OI+P1V+m0nRStw8WAA6LZhY2RRVE7NZM1mLcd0nlKlDuIM/NXxhrTEcbWVeowBM12o3vl8IpVarund+6qPqOGl+5alZgInQqgSkp/gtLXob61/E+BSKzmCRZ3fgbuXo7DHYNjQGNpCANcoJ8SJnmszEU2sE+rM6QGedl3qIXr10qrz+j5qOscrGM/2ectcWzFMyf8AaY8E71r97P8AtIXocIIUvofz+iv/AGH/AJ/f+jgwzO0gNOmkHuVUYR+UQwzmMyDbcPmvRS3egNW/Q+2C/wCQa4X7OFwmzTpkkHe5vxuFp09m0xHYaTxy/cLqQhUnpZlckq666f8As5fEYJjRmDGzu7IJnwWa6k78hn+0/Rd0EQsrpVT5CesqeVk4T2dx/Af0laOH2YLFzQTwiw711MIASfQry/0FdbTWEsHOVsEBcNBHTRRNouOrbA6wuoQQh9BL8/oRdXSW6OYdQPC3QplVgaO023MLqgqmM2e2rGabbgYCz6JJZl5Hnqsv7lscoMRwAAUuaQZBJ3Qts7Doj8xPX9ldoYFjBDRHxPiUT0tcbFa6vTx9qZx7cK50kg/HwCczCcWnwK7cNSp10aXkn9dXo5Slho1aR4qwygHAtLZtIkTfvXRoTrpkvJOuqb8GNh9nNb+BpP8AaPop24RugaB/iFpoVVoyuCT1qbK1PCtAuAT0CHYKmdWNPVo+isoT9k4xgTurOcmfXwVED+kwnd2W/RUzgKc/02/pH0W2hJWkmx51WjM/lbPyN/SELUQj4pD5r9ioQhVJAkKVCAESJyaUABShNTggBUiEIAVCRKgBqCuV9MfTKlghlAz1nCWsmABuc47hy3wVxWFZtjaLwXPfRouvmEsYByaCHP13z1VY0m1lvC/JjZ68EpXl7v4Wh0+txZc8kimS2xsT2g5xJNiYB0b4VG+hu08MwnC4guc1zR6um8tYQbk5XkMtItGh7lvxR4r9YDL9HraVedbC/iC5r/Z9oM9XUBy52xkJBg5gCYuDdshehU3ggFpBBAIIuCDoQd4U6hy9wTySIQhKaCEIQAiEIQAJUiVAAhIlQAIQhAAmylKaAgB6E1xShACpCEqEANKE5CAGgozIaEjggACwvTD0hbgcOapGZxOSm38ziCRPIAEnpzW8AvI/4htOM2nQwYdla1obMxDqkveRNicjGgcTZU0oVVvxyzG8It+iHou+uHY3G0zVe8h7GOc2HggHM5ugMWax0AaEDUdxT2kwhldjppPIpvsQWOnK0uabtcHdhwIBFpjKmY006VMf6jsOWMDQ9zZYA0AAVD7hHKQdYIXGbQ2k/M6r6tjmVBkrmk9r8FimEZZc8GaFbLZrnWMBpdACZ51GHB1+I2k01aDJGZuKfTeJ0jC1ntnqxzHd6i2btL1jWZbuxL6lRsH3aAOVtU8JYKQH+6oNwK4+psmvXfOdwzNINRzS12ZtCvRbXe2xa8Mqsa8W7dJ2gChwe03NeWNa4sc1rAymf9c0mSyjhmGwpU2iXVKpIlz3NaZbKb4srYMnZekHo9h8a17vVAva0tZUHZcXNnK0O3tBsSbajiua/hrtqtRqv2di+y9t6Yc5pIMBxpSCQbODmwTbNyXUbM2iH/1KrLQBQw2ao2nH4aj2AkkWEQ1vI6ri/wCJdF1DF4fGszAmDlOUGaJDhABmCDefnCNPNZ0354/kH7PWcycCoKTw4Bw0IBHQiQplzmioQEqABIlQgBEJUiABCEIAVCRCABNT00tQAgT0wJxKAFQklISgByEJCgBUhSApSEAMBXlmPLB6QtztkHIG2Dod6kZXQdIImd0SvVYXln8T8K/D4nD4+m0OgtaQZjOzM9kxBgjMNfwq2h/k17TRjO/2lVc2xxDaZPujI1zj0aSS7uC4DbeEayq2o7V8gObhhh6jjF2hzKjKzyY91rXHkvQcJWFSk19D1YztDswu241AbBdfmFx209k53Pe0ve0w19dxBrYkuMNw2HywKVDMQHOaACJ1hzkabw9wZ1Xo/imOoMEBsANIt0AmTy3ncvPtvGjVrANZma5xysDBUzFpgkUH1GMc5uhDA5w0cAbKXGYLEtcWUqhJY80QQIa6uMHiaz3t4ND30mAbhTA3JMDskVX9lrXNq02YinSfZmIouAJZmH9PEUS4Na8fgyA2kikpT92TGdJsXHOOVjcUynFhSq4N1F3MNaXsn/GVj/xfqtbh6LHtDqjnuLXhkBrWt7bZLiRmzN7M3yzuXa7JpxSAa572xGWrBqNixY4nUjS89TqvNPTQHGbTpYJjf9NjmMLWiPeh9d9tIZA/x5pdLD1M+Fua+D1TZrpo0zpNNluHZCttSZdwSwudmjglSBCAAJUiEAKhIhACpEqRAAhCEAKhCEAJCClQgBu5NUiYUALohqSU4BAAAlQkQAQs/bOyqeJovo1RLXDvBBlrmncQQCtBCE2nlAeQ7J2hU2O+phsWx9Sg+XMcy4O4lgcQACPebMg8d/pGFqtrPD2Oa6lTaMmUggucLugaZW2H97rWCm2xsmjiaZp1mhzTccQdxadxXn+K/h9iqD82BxJA0hz3Md0loId4BXzGpu3h/pmbo66hs0t9mze97TUrv5OqMxDi3uLw3/FWn7PBaA0AOo1C+kYgNmTlEaNLXuYeRPBcR67b9IOZ6ttaTLXk03FvZy9ntt69oG/Kykw+xdsYpgZiq4osAE2Yaj4Ns2Qi+u8dEPT8toMl/wBM/TCnRz0KGZ+JezKMkENc4lgDspzCoNwAm47rHoH6JnCtNasc2IqDtSZyNNy3NvcTGY8hwk3PR30Lw+FOcTUq/nfBLZ1yjRp568105KWrSntn+37DHliyiEAJVI0RCVCAEQhCABKkSoAEJEqABCEIAELPwlaoR2ovoI0HNXwsTyAqEiFoCppCRzwNVF64rMgTQlCqPruF5CzTtKrmghovpH7rHSRjZuoWY/HOAmR4KhV2y+bQB0WO0jHSR0QTXGLkwFydb0jeBbL1LbeazsRt+pUhrnAN5DXulJWtKErVmTuPa6f52/qH1TmVmu0c09CCuBqHhdX9m4x1O4a2+8i/Qckq18vdGLVyzsoRK5+nteqTADTOgha+GqPMZo5wNPiqzargoqTLcoSFBCcYUlKo08IAEShEIAEISOdCAFSpoKWUACVIhACoSIQB42Nq1yb4ioL/APUeB5p9DatZrpqV60bgKj79e1osR7oJI4nzSipxOmi5e38ng/UUv5Om/n1V0kVan63hRVNv1d1Wr+t/1WNhqrg4EE844bwrT67TZziOoIHjotx+Ss9RqNZNXCekboyue8ncc7ifi4Ja/pCQID6h/wAz8nLmq1Rm5xPKI80/DMa6Q45bW4Tuk7gjAr6u+EaFXadZxzeteOHbeIHcVdwmNxFj6wv/ALnOJ+KxQDpre6mpYjKeW/5JKzgSOot0b78Y8+8Sfh5KtVe/cXeJVVmJBtdPqPOgufgoNU2XdvlslLz+KT3qv7SzmEx2be49yY+jJ1J6pu3HJz3qei23E5mgcPHkFap4k27T+d/K6zqLS27THNWqVasRYZhxInw4rMLI06u3k0G4hwu1zweOYjyTm46sP/ddH9x+qzWF89qfJSgGEN4Ww06tM2KG1Hi5e8nm4kdYJWizbwiJf8/Nc2BMQrNGnAkhTnUtcM6o1L8HS4Xb1O/vk9AR3XVn+e0/yu8B9Vy/rw3S547u6yQYjiqfVUtsnROq/J1lbajbRMHp9Vl7Q2wXQGOcBvIsVUYAR2njuIsreHwtOJLteYW/LdrCYzpvgqP2o5wLczhI1kzPVZ1TGVtPWPH+bvqrG0GMaYZPMzYcuagpUg67nRwuJU33vlnPTbeMie0VxH+q/wDW6PNMqY2sB/UfPJ7/AKqZwabA2HEx4J1NjY11HELO5ryLivYuD22WTndUcdPekdbu1TqvpQxupq9BE8/xKI4SlvI/UFlY/BUi7shxO85jHQKs6tJbsbvtLlHQf+scP/8AI8G/+SFznsjOHmhP9QHzX7RyT6oJ0U2GxRY4HUDSbx3FUi2CZ492qnLCG8PvcrnKoWco0XYp53qHE15aZF7XVajXiAdI7+SsdlwtfkgdPKaImFsjObRuICv+rZllpIETeL8IICq+yiNFKxlgO5DaOXUS0+eR1NgJAk9QIPnorbaJa4AvEDr4ab/BOoYUTANuJ3coCu0w1tpmNDFwOCjTeTJrE58kVB/HX4K3IAJ3KGvUYbRfiLf8qNzyQAptPu2BXznckptHvn3t3L91YY3ObC9yTyFyfBUXvAETdMpOeX5GvItrJA0kp8BOW1tsS1CC+DxU3tJFmuIHAKCq3K64PKd6kw1Oe0p1OATfdgs4dk3cbeae9wiBpPipvVjLaTbhbndMp1GyCRYX6xoOim28YOlSkSU3tA0lI6qTr4BMr1muJIACYxTcvwP3JbE7BeSpMqaw8VLhnzuFkj035KTSexC8JWq3Uw8iQqxYpOXL3KDsS1paIH/l05hUngjkrvVRPqTY34WV5pPYna8ld9Q5RJsLxooqeLABDvFV8TnMyIA3bhf4quQYmLC3RXmfZw3qtPZFwVPxRvhKzGbsqbs9oLHF/uA675tDQN5UD3Av7IMbuJWuJF+WsJpmtA5fqQpvYxxd/wByVZ2L0X7rPO6jS0lpEEEhSUeB32H0U+Pf233/ABu8ypMHVZmDywnLeNATu7l3IZzjZMpFnbjQ3sUVGkOEapMXUdnLyIJPyt8FE6oXGSfBBJ7GwxhDRJlK98AWuoW4iRA3J9P/AHdwStIhqrO7ZvYZjMgI3t+PVV+02fOLKrhcWGthx0NuMKV2J1LZbNjIF+ak0y/21KfDEL5nwJG7mn0WQDF9wI81Qr4m+gvYWv3J8vBIbIIMcN+8cUOWjnWJ5EfXINhfnu6qTDvyvaTrJJ71E9r2+9fwTsPDpIcMw0DrT0OnimlFJvLSL+J2kRDYBET8Tu+9UUtqs/EwDkD5G58Vm0S1zjmJB4fuoqwANunLqipTGdvOXwdFS2kGNEiQ4ktvexg2CbUxAcJBEdVz1RosJ018dE9jyEtaaYq1XOz4NppG8jxCt4dokXA33O4LnHRMngrlDFsDbkk2gQb8uUKfw4HnVlvDNWrit0t8ZUmGxwbY5SOsFZvtFNw7Igz0RUAA3LHpPJaa8yzbqbRAMCDzBkackz29pOgHf8iube4wQCYO6deoTywRYE2WfCnyxa17zsjpHY5pGWRHECJ+FwomY1kxBHCQL/FYtFkCG66ncB4qZtWAQ4Gb7pE/NC00infVLPknxbnOcbQDFuMRr3hVcpGYcRcfEfFV2Yoh0uJAiD0JVxpDhmBkcU72WxyKXTyx+EwznNE2bPfzIHgrdDDtY4OaT3x9EmHonVwIA4i3xTnvH5h4hLllJhTuXPXoUGel+Z3gfohbllsnIsp53E21k8PirTgGg2ExGg8VmNrFpMHeRI5EhJWxTnan5LowVl/bnBJiWtIERI4DVU/dP34J5eo6l/kmTEqE9ySrV7WYCAdw0tZX8O8OaCSL6g6iPvcm7PpsLMrgD11E8DuTvZGNJAJI4GFlUkibjG78k9RzAxoptIOrnZjBvoGzEc0olzZGnNMYxoOgV9gFrAcgAFL5cC0kyHCMe0gtEOAInffr8lfdh2gay83JO7mnUyOATcTVbo0X38EnfkmtNcscxzGC4aRIDi4nRwdB0Nuw74KnX2W4l72ObALg4duW5SBBGUmbj4zCHVspzEwQQ7vbOUweGY+KzsVj3OBbMNOogCb5hMDjccFSaSQ7U+USu2TW/wCmTciQ5sdnNN5ge6654J9LZtRxALZ3Rp+YOubdksIM741kKszaNQSM0zMyAdSSZkXEudY2uU6nin/mOrjBuO1GaxsZgT0T5RimF7LZ2a8EtgZomC5uax0DZmTu4qKphHgZsoygG4cwiG5QSIPaHaaLbzGqaMU/XMeu/wDVqY+CcMY8mc24gWbABgEARAmBpz4lLlI2omlvkGYR5Is2TB95kiYygibEyIGp7ir1ZjmMg02HS8sMXi7QZ/5VNmLf+bQRoJ3Ru1GUQdRAhIcQ4zJN9e8z5gI7hVpSltkJZNxflYeBEKxScH9neNCBAPcqgbmICt1GZPdaR3FZkdTjdDH0S03UftEGBoocRiHOPaKSkbglZkH+Cxia5doIABB5g8ZUGKxRYztZhwOnwjtSrNVmYd0CI15op4cFuV5JG4T2R4psmdtd3Jz1LEPe+TJHC8RxO7grVSoZWk/B02A7h4eSx8TUZm7AMc96ZNM6pqfR0WzcI/LmdIBuBu6qc01zn8xefxn4fRFPGvBkPNuZjwU6ht5J2svJ0/q+fmhY/wDO6nBn6f3Qp9lCdrJ8d7x/uPmVCfc++KVC6jpXBIdG9AnYb3x97kqFhpK3+oev/wCArD9D97kIS3wLqcDqereq2K/ujo35IQo+CXsi4IKRCxGEVT3O5YjtR1+YQhUQUOYrVPf1CEJwH1fdCjfv6BCEMGT4T3H9yaxCFgy4Cpoei0625KhCBFLEe74f/ZI33u5CEGeSVuneVNR1HVIhAy5GbW0b/cFyrNB0HkhCZcj+RyKnuIQtZj4NZCELTD//2Q==" height='275px' width='275px'></font></center><center></font></font>
+<br>
+<center><font size="5" color="purple">×DEAR ADMIN×<font size="5" color="white"></font></font>
+<br>
+<font size="6" color="orange">WE FUCKED YOUR<font></font><font color="orange" size="6"> WEBSITE</font></font>
+<br>
+<font size="6" color="white">THIS IS MY FIRST & LAST<font size="5" color="white"></font></font>
+<br>
+<font size="6" color="green">DONATE 100$ TO @therajop(TELEGRAM)<font size="5" color="white"></font></font>
+<br>
+<center><font color="red" size="4">     ELSE NEXT TIME YOU WILL NOT FOUND THIS WEBSITE </font></font>
+<br>
+<br>
+<br>
+<font face="Jolly Lodger" color="blue" size="20">&#10026 TEAM &#10026;  <br><font face="Jolly Lodger" color="lightgreen" size="10"> &#9760 VENOM ARMY &#9760; </font></font>
+ <div id="particles-js">
+ 	<canvas class="particles-js-canvas-el" style="width: 100%; height: 100%;" width="1365" height="949"></canvas>
+</div>
+  </div>
+  <script src="https://cdn.rawgit.com/FicriPebriyana/efek/0a935a6c/efek%20salju.js" type="text/javascript"></script>
+  <script type="text/javascript">
+    	$.getScript("https://cdnjs.cloudflare.com/ajax/libs/particles.js/2.0.0/particles.min.js", function(){ 
+    	particlesJS('particles-js', {
+    		"particles": {
+    				"number": {
+    						"value": 80, 
+    						"density": {
+    						"enable": true, 
+    						"value_area": 800 
+    					} }, "color": {
+    						"value": "#FFFFFF"}, 
+    						"shape": { "type": "circle", 
+    						"stroke": { "width": 0, "color": "#000000" }, 
+    						"polygon": { "nb_sides": 5 }, 
+    						"image": { "width": 100, "height": 100 } }, 
+    						"opacity": { "value": 0.5, "random": false, 
+    						"anim": { 
+    								"enable": false, 
+    								"speed": 1, 
+    								"opacity_min": 0.1, 
+    								"sync": false } }, 
+    						"size": { 
+    								"value": 5, 
+    								"random": true, 
+    						"anim": { 
+    								"enable": false, 
+    								"speed": 40, 
+    								"size_min": 0.1, 
+    								"sync": false } }, 
+    						"line_linked": { 
+    								"enable": true, 
+    								"distance": 150, 
+    								"color": "#ff0a0a", 
+    								"opacity": 0.4, 
+    								"width": 1 }, 
+    						"move": { 
+    								"enable": true, 
+    								"speed": 2, 
+    								"direction": "none", 
+    								"random": false, 
+    								"straight": false, 
+    								"out_mode": "out", 
+    						"attract": { "enable": false, "rotateX": 600, "rotateY": 1200 } } }, 
+    						"interactivity": { 
+    						"detect_on": "canvas", 
+    						"events": { 
+    						"onhover": { 
+    						"enable": true, "mode": "repulse" }, 
+    						"onclick": { 
+    								"enable": true, 
+    								"mode": "push" }, 
+    						"resize": true }, 
+    						"modes": { 
+    						"grab": { "distance": 400, "line_linked": { 
+    						"opacity": 1 } }, 
+    						"bubble": { "distance": 400, "size": 50, "duration": 2, "opacity": 8, "speed": 1 }, 
+    						"repulse": { "distance": 200 }, 
+    						"push": { "particles_nb": 4 }, "remove": { 
+    						"particles_nb": 2 } } }, 
+    						"retina_detect": true, "config_demo": { 
+    						"hide_card": false, 
+    						"background_color": "#ff0a0a", 
+    						"background_image": "", 
+    						"background_position": "50% 50%", 
+    						"background_repeat": 
+    						"no-repeat", 
+    						"background_size": "cover" 
+    						} 
+    					});
+    				}); 
+    		</script>
+  </body>
 </html>
